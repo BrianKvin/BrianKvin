@@ -1,5 +1,5 @@
 # 💫 About Me:
-My journey in software development has equipped me with a diverse skill set, including proficiency in Python, JavaScript, TypeScript, Dart (Flutter), and their ecosystems. Throughout my career, I have demonstrated a strong ability to translate complex requirements into elegant, scalable solutions, whether it's architecting robust web applications or optimizing performance for seamless user experiences.
+Hi! I'm Kelvin Brian Mululu. I'm passionate about creating efficient and user-friendly software solutions that solve real-world problems.
 
 
 ## 🌐 Socials:
