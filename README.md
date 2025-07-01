@@ -1,5 +1,5 @@
 # About Me:
-Hi! I'm Kelvin Brian Mululu. I'm passionate about creating efficient and user-friendly software solutions that solve real-world problems.
+Hi! I'm Kelvin Brian Mululu. I'm passionate about creating efficient and user-friendly software and data science solutions that solve real-world problems.
 
 
 ## Socials:
