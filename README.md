@@ -1,5 +1,5 @@
 # About Me:
-Hi! I'm Kelvin Brian Mululu. I'm passionate about creating efficient and user-friendly tech solutions that solve real-world problems.
+Passionate about creating efficient and user-friendly tech solutions that solve real-world problems.
 
 
 ## Socials:
